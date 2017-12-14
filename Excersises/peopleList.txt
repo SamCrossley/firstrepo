@@ -1,0 +1,7 @@
+Sandra,Receptionist,43
+Mark,Unemployed,27
+Davina,Dentist,34
+Callum,Mechanic,22
+Deborah,Teacher,36
+Irene,Banker,48
+Frank,IT Consultant,38
